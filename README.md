@@ -110,8 +110,9 @@ I build software that is **scalable, intelligent, and production-ready.**
 # 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PrinkeshJha&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PrinkeshJha&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" />
 </p>
+
 
 ---
 
