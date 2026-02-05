@@ -54,37 +54,18 @@
 
 ---
 
-# 📊 Performance Metrics
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PrinkeshJha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=PrinkeshJha&theme=tokyonight&hide_border=true" />
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=325 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=PrinkeshJha&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api?username=PrinkeshJha&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=PrinkeshJha&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br />
 
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinkeshJha&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="55%" src="https://github-profile-trophy.vercel.app/?username=PrinkeshJha&theme=tokyonight&no-frame=true&row=1" />
-</div>
-
----
-
-# 📈 Contribution Heatmap
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrinkeshJha&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
----
-
-# 🐍 Contributions in Motion
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
----
+<br/><br/>
+<hr/>
+<br/>
 
 # 🚀 Currently Leveling Up
 
