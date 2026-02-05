@@ -1,29 +1,122 @@
-## Hi there 👋
+## 🚀 Hi, I'm Prinkesh Jha! 👋
 
-# 💫 About Me:
-- 🎓 I'm a **B.Tech CSE student** passionate about AI, ML, and Full-Stack Development.  <br>- 💡 I love building **intelligent apps, 3D web experiences, and automation systems**.  <br>- 🔭 Currently working on **AI/ML Models, 3D Try-On apps, and RAG-powered chatbots**.  <br>- 🌱 Exploring **System Design, Cloud Deployments, and Advanced NLP Models**.  <br>- 💬 Ask me about: **Python | AI/ML | React | Flask | Three.js | OpenCV |RAG|DJANGO|CANVA|LLM|GIT|GITHUB| Databases**  <br>- ⚡ Fun fact: **I mix creativity with code to bring ideas to life!**  <br>
+💡 **Engineer | Problem Solver | AI Builder | Full Stack Developer | Cybersecurity Explorer**
 
+I am a highly motivated **B.Tech Computer Science student** passionate about building scalable software, solving complex algorithmic problems, and developing intelligent systems.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prinkesh-jha-107957312/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jhaprinkesh@gmail.com) 
+I believe in one core principle:
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PrinkeshJha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PrinkeshJha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinkeshJha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PrinkeshJha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PrinkeshJha&limit=5&theme=dark&combine_all_yearly_contributions=true)
+👉 **"Strong fundamentals + Real-world projects = Great Engineer."**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PrinkeshJha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🔥 About Me
+
+- 🧠 **DSA Enthusiast:** Actively solving algorithmic problems using **Python, C++, and Java** with a focus on writing optimized and scalable solutions.
+- 🤖 **AI/ML Developer:** Building intelligent systems using **RAG, NLP, Computer Vision, and Deep Learning**.
+- 🌐 **Full Stack Web Developer:** Creating production-ready applications with modern frameworks.
+- 🔐 **Cybersecurity Explorer:** Currently diving into **secure architectures, phishing detection, and system vulnerabilities**.
+- ⚙️ Strong believer in **System Design + Clean Code + Performance Optimization**.
+- 🚀 Love turning complex problems into simple, elegant solutions.
+
+⚡ **Engineering Mindset:**  
+> *"First make it work, then make it efficient, then make it scalable."*
+
+---
+
+# 💪 Core Strengths
+
+✅ Data Structures & Algorithms  
+✅ Problem Solving  
+✅ Object-Oriented Design  
+✅ Backend Engineering  
+✅ AI System Development  
+✅ Full Stack Architecture  
+✅ Debugging & Optimization  
+✅ Secure Application Development  
+
+---
+
+# 🧠 Currently Leveling Up
+
+- Advanced **Data Structures & Competitive Programming**
+- **System Design for scalable applications**
+- **Agentic AI & LLM-powered systems**
+- Cloud deployments & microservices
+- Cybersecurity fundamentals
+
+---
+
+# 🏗️ What I Build
+
+🔥 AI-powered Applications  
+🔥 RAG-based Chatbots  
+🔥 Intelligent Document Processing Systems  
+🔥 3D Web Experiences (Three.js)  
+🔥 Resume Analyzers using AI  
+🔥 Secure Authentication Systems  
+🔥 Computer Vision Projects  
+🔥 Automation Tools  
+
+👉 I focus on projects that demonstrate **real engineering capability**, not just tutorials.
+
+---
+
+# 🛠️ Tech Arsenal
+
+### 👨‍💻 Languages
+Python • C++ • Java • JavaScript • SQL • C  
+
+### 🤖 AI / ML
+TensorFlow • Scikit-Learn • OpenCV • NumPy • NLP • LLMs • RAG  
+
+### 🌐 Web Development
+React • Node.js • Express • Flask • Django • FastAPI  
+HTML • CSS • Bootstrap • Three.js • Socket.io  
+
+### 🗄️ Databases
+MongoDB • MySQL • SQLite • Firebase  
+
+### ☁️ Cloud & Deployment
+AWS • Vercel • Netlify • Render • Gunicorn  
+
+### 🔐 Security (Learning & Applying)
+Authentication • JWT • Secure APIs • Phishing Detection  
+
+### 🧰 Tools
+Git • GitHub • Postman • Jira • Trello • Figma • Canva  
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=PrinkeshJha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=PrinkeshJha&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinkeshJha&theme=dark&hide_border=false&layout=compact)
+
+---
+
+## 🏆 GitHub Achievements
+![](https://github-profile-trophy.vercel.app/?username=PrinkeshJha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+# 🌍 Let's Connect!
+
+📩 **Email:** jhaprinkesh@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/prinkesh-jha-107957312/
+
+---
+
+# ⚡ Developer Philosophy
+
+> **"I don't just write code — I engineer solutions."**
+
+> **"Great developers aren't known by the languages they use, but by the problems they solve."**
+
+---
+
+⭐ From building AI systems to mastering DSA —  
+I am on a mission to become a **top-tier software engineer.**
