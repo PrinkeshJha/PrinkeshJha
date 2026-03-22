@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=42&duration=2500&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi+👋,+I'm+Prinkesh+Jha;B.Tech+Computer+Science+Student;AI+%7C+Full+Stack+%7C+DSA+Enthusiast;Building+Real-World+Intelligent+Systems;Future+System+Design+Engineer+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=42&duration=2500&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi+👋,+I'm+Prinkesh+Jha;AI+%7C+Full+Stack+%7C+DSA+Enthusiast;Building+Real-World+Intelligent+Systems;" alt="Typing SVG" />
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=PrinkeshJha&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Views" />
